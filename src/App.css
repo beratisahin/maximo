@@ -1,0 +1,11 @@
+.template{
+  width: 851px !important;
+  height: 1193px !important;
+  border: 10px rgb(165, 20, 71) solid;
+  justify-content: center;
+  margin: auto;
+}
+.maximo{
+  width: 831px !important;
+  
+}
